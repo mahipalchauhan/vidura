@@ -1,0 +1,19 @@
+{
+  "name": "vidura",
+  "version": "1.0.0",
+  "description": "\"this is a backend app\" ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [
+    "javascript",
+    "backend"
+  ],
+  "author": "Mahipal Chauhan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
